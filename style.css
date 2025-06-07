@@ -1,0 +1,60 @@
+body{
+    min-height: 100vh;
+    background-image: linear-gradient(#FFFFFF,#EBDCFF);
+}
+*{
+    font-family: "Merriweather", serif;
+    margin: 0;
+    padding: 0;
+}
+#banner{
+    background-image: url(images/hero-bg.png);
+    margin-top: 100px;
+    margin-bottom: 120px;
+    background-color:white;
+    width: 87.5%;
+    margin-right: auto;
+    margin-left: auto;
+    border-radius: 40px;
+    border: 2px solid #872Bff10;
+    padding: 20px 0 0 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.banner1 h1{
+    font-size: 70px;
+    font-weight: bold;
+
+    
+}
+.banner1 h1 span{
+    color: #f411cf;
+}
+.banner1 p{
+    font-size: 18px;
+    font-weight: medium;
+    color: #a8a8a8;
+}
+.btn{
+    background-color: #872bff;
+    border-radius: 30px;
+    padding: 16px 32px ;
+    color: white;
+    cursor: pointer;
+    margin-right:  20px;
+
+
+}
+.btn-2{
+     
+    border-radius: 30px;
+    padding: 16px 32px ;
+    border: 2px solid #872bff;
+    cursor: pointer;
+    margin-right:  20px;
+}
+.banner1 *{
+    margin-bottom: 20px;
+}
