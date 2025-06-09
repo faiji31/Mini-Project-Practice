@@ -58,3 +58,81 @@ body{
 .banner1 *{
     margin-bottom: 20px;
 }
+.banner2 img{
+    width: 600px;
+
+}
+#box2, #part31, #country{
+    width: 87.5%;
+    margin: 0px auto 120px auto;
+}
+.Heading{
+    text-align: center;
+
+}
+.Heading h4{
+    color: #f411cf;
+    font-weight: bold;
+    font-size: 24px;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+
+}
+.Heading h2{
+    font-weight: bold;
+    font-size: 44px;
+    margin-bottom: 30px;
+}
+#Box{
+    display: flex;
+    justify-content: space-between;
+    gap: 30px;
+
+}
+.card1{
+    background-color: white;
+    padding:  60px;
+    text-align: center;
+    width: 350px;
+    border-radius: 30px;
+}
+.card1 img{
+    margin-bottom: 30px;
+
+
+}
+.card1 h2{
+    font-weight: bold;
+    font-size: 28px;
+    margin-bottom: 20px;
+
+
+}
+.card1 p{
+    font-weight: 400;
+    font-size: 15px;
+    color: #a8a8a8;
+
+}
+.card1{
+    background-color: white;
+    padding: 40px;
+    border-radius: 24px;
+    display: flex;
+    gap: 20px;
+}
+.head h1, .head p, .head img{
+    margin-bottom: 30px;
+}
+#country-card-container{
+display: flex;
+gap: 30px;
+
+}
+#country-card-container h2{
+
+background-color: white;
+padding: 40px;
+border-radius: 30px;
+}
